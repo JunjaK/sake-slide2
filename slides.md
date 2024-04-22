@@ -19,63 +19,75 @@ src: ./pages/02-3.nihonsyuu.md
 hide: false
 ---
 
+
 ---
 src: ./pages/03-0.nihonsyuu.md
 ---
 
 ---
-src: ./pages/03-1.term.md
+src: ./pages/03-1.rekisi1.md
 hide: false
 ---
 
 ---
-src: ./pages/03-2.term.md
-hide: false
----
-
----
-src: ./pages/03-3.term.md
-hide: false
----
-
----
-src: ./pages/04-0.create.md
-hide: false
----
-
----
-src: ./pages/04-1.sakamai.md
-hide: false
----
-
----
-src: ./pages/04-2.sakamai.md
-hide: false
----
-
----
-src: ./pages/04-3.sakamai.md
-hide: false
----
-
----
-src: ./pages/04-4.mizu.md
-hide: false
----
-
----
-src: ./pages/04-5.kouji.md
-hide: false
----
-
----
-src: ./pages/04-6.koubo.md
+src: ./pages/03-1.rekisi2.md
 hide: false
 ---
 
 
 ---
-src: ./pages/05.syujyozou.md
+src: ./pages/04-1.create.md
+hide: false
+---
+
+---
+src: ./pages/04-2.sakamai1.md
+hide: false
+---
+
+---
+src: ./pages/04-2.sakamai2.md
+hide: false
+---
+
+---
+src: ./pages/04-2.sakamai3.md
+hide: false
+---
+
+---
+src: ./pages/04-3.mizu.md
+hide: false
+---
+
+---
+src: ./pages/04-4.kouji.md
+hide: false
+---
+
+---
+src: ./pages/04-5.koubo.md
+hide: false
+---
+
+
+---
+src: ./pages/04-6.syujyozou.md
+hide: false
+---
+
+---
+src: ./pages/05-1.term.md
+hide: false
+---
+
+---
+src: ./pages/05-2.term.md
+hide: false
+---
+
+---
+src: ./pages/05-3.term.md
 hide: false
 ---
 
